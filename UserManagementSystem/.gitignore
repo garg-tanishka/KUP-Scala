@@ -1,0 +1,5 @@
+/target
+project/target
+project/project/target
+src/main/scala/org/knoldus/target
+src/main/scala/org/knoldus/project/target
